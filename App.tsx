@@ -28,7 +28,7 @@ import {
   ModerationReport,
   PriceAlert
 } from "./types";
-import { PRODUCTS_DATA } from "./data/products";
+import { PRODUCTS_DATA } from "./products";
 import { INITIAL_REVIEWS, INITIAL_MODERATION_REPORTS } from "./data/community";
 
 // Sub-components
